@@ -5,7 +5,7 @@ The app was created as a project for the Enterprise Web and Mobile Developer [di
 
 ## About the Game
 
-The game was built using HTML5, CSS3 and Javascript . This ia game of Symbol and Cards.The game is a test of your memory. A Demo version of the game can be seen here [Memory Game](https://special3220.github.io/memory-game-js/)
+The game was built using HTML5, CSS3 and Javascript . This ia game of Symbol and Cards.The game is a test of your memory. A Demo version of the game can be seen here [Memory Game](https://special3220.github.io/Memory-Game-Js/)
 
 ## Instruction of How to Start
 
